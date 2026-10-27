@@ -37,4 +37,4 @@ The SQL Server script and schema are located in the [`Database/`](./Database) fo
 ## 🚀 How to Run the Project Locally
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Yusuf-SHAABAN-ARJA/YOUR-REPO-NAME.git](https://github.com/Yusuf-SHAABAN-ARJA/YOUR-REPO-NAME.git)
+ git clone "[https://github.com/Yusuf-SHAABAN-ARJA/Driving-License-Management-System(DVLD).git](https://github.com/Yusuf-SHAABAN-ARJA/Driving-License-Management-System(DVLD).git)"
